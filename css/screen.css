@@ -167,6 +167,19 @@ a:focus {
     Object description
 */
 
+
+.o-row {
+    padding: 24px 24px 0;
+}
+
+.o-row--primary {}
+
+.o-row--dark {}
+
+@media (min-width: 768px) {
+    .o-row--lg {}
+}
+
 /*------------------------------------*\
   #COMPONENTS
 \*------------------------------------*/
